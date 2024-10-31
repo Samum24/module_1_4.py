@@ -1,4 +1,5 @@
 my_string = input('Здравствуйте! Где вы проживаете?')
+print(len(my_string))
 print('Ваш город',my_string)
 print('Здравствуйте! Где вы проживаете?'.upper())
 print('Здравствуйте! Где вы проживаете?'.lower())
